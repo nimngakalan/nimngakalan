@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Header](https://github.com/marpa4d/Marpa3D/blob/main/assets/Marpa4D_GitHub.png)](https://t.me/main_bereg)
 
-<!--
-**nimngakalan/nimngakalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vacheslav 👋
+Low-level programming, system programming, reverse engineering, malware Analysis, web Security, FPGA
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://t.me/main_bereg">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   
+<p align='center'>
+   📫The good old e-mail:🙂 <a href='mailto:nimngakalan@yandex.ru'>nimngakalan@yandex.ru</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+*   Assembler (x86-64, RISC-V, ARM)
+*   C
+*   Nim
+*   Rust
+*   Elixir/Erlang
