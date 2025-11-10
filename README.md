@@ -1,10 +1,10 @@
-[![Header](https://github.com/marpa4d/Marpa3D/blob/main/assets/Marpa4D_GitHub.png)](https://t.me/main_bereg)
+[![Header](https://github.com/marpa4d/Marpa3D/blob/main/assets/Marpa4D_GitHub.png)](https://t.me/nimngakalan)
 
 # Hi, I'm Vacheslav 👋
 Low-level programming, system programming, reverse engineering, malware Analysis, web Security, FPGA
 
 <p align='center'>
-  <a href="https://t.me/main_bereg">
+  <a href="https://t.me/nimngakalan">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    
