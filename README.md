@@ -1,4 +1,4 @@
-[![Header](https://github.com/nimngakalan/nimngakalan/blob/main/om_git_1.png)](https://t.me/nimngakalan)
+[![Header](https://github.com/nimngakalan/nimngakalan/blob/main/git_wallpaper.png)](https://t.me/nimngakalan)
 
 # Hi, I'm Vacheslav "Bereg" Sharov 👋
 system programming, reverse engineering, malware Analysis, web Security, FinTech
