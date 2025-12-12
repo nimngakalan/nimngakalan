@@ -14,8 +14,9 @@ system programming, reverse engineering, malware Analysis, web Security, FinTech
 
 ## 🛠 Technical Stack
 *   Assembler (x86-64, RISC-V, ARM)
+*   Vlang
+*   Gleam
 *   Crystal
 *   Nim
-*   Rust
 *   Elixir/Erlang
 *   1C:Element
