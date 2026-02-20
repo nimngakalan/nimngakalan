@@ -16,6 +16,7 @@ system programming, reverse engineering, distributed systems, web Security, FinT
 *   Assembler (x86-64, RISC-V, ARM)
 *   Nim
 *   Haskell
+*   Clojure
 *   Gleam
 *   Elixir/Erlang
 *   Mojo lang
