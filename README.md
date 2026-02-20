@@ -1,7 +1,7 @@
 [![Header](https://github.com/nimngakalan/nimngakalan/blob/main/git_wallpaper.png)](https://t.me/nimngakalan)
 
 # Hi, I'm Vacheslav "Bereg" Sharov 👋
-system programming, reverse engineering, malware Analysis, web Security, FinTech
+system programming, reverse engineering, distributed systems, web Security, FinTech
 
 <p align='center'>
   <a href="https://t.me/nimngakalan">
@@ -14,9 +14,8 @@ system programming, reverse engineering, malware Analysis, web Security, FinTech
 
 ## 🛠 Technical Stack
 *   Assembler (x86-64, RISC-V, ARM)
-*   Vlang
-*   Gleam
-*   Crystal
 *   Nim
+*   Haskell
+*   Gleam
 *   Elixir/Erlang
-*   1C:Element
+*   Mojo lang
