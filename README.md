@@ -19,4 +19,5 @@ system programming, reverse engineering, distributed systems, web Security, FinT
 *   Clojure
 *   Gleam
 *   Elixir/Erlang
+*   Kotlin
 *   Mojo lang
