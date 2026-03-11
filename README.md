@@ -15,7 +15,6 @@ system programming, distributed systems, web Security, FinTech
 ## 🛠 Technical Stack
 *   Assembler (x86-64, RISC-V, ARM)
 *   Rust
-*   Haskell
 *   Gleam
 *   Elixir/Erlang
 *   Ponylang
