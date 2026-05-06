@@ -1,4 +1,4 @@
-[![Header](https://github.com/nimngakalan/nimngakalan/blob/main/git_wallpaper.png)](https://t.me/nimngakalan)
+[![Header](https://github.com/nimngakalan/nimngakalan/blob/main/git_wallpaper.png)]()
 
 # Hi, I'm Vacheslav "Bereg" Sharov 👋
 system programming, distributed systems, web Security, FinTech
@@ -9,15 +9,15 @@ system programming, distributed systems, web Security, FinTech
    </a>
    
 <p align='center'>
-   📫The good old e-mail:🙂 <a href='mailto:nimngakalan@yandex.ru'>nimngakalan@yandex.ru</a>
+   📫The good old e-mail:🙂 <a href='mailto:bereg@oldmyth'>bereg@oldmyth.ru</a>
 </p>
 
 ## 🛠 Technical Stack
 *   Assembler (x86-64, RISC-V, ARM)
-*   Go
+*   Jovial
+*   Ada
 *   Rust
-*   Gleam
 *   Elixir/Erlang
 *   Ponylang
-*   Kotlin
-*   Mojo lang
+*   WebAssembly
+*   MoonBit
